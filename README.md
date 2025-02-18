@@ -10,10 +10,10 @@ The Online School of English website is a landing page for adult professionals, 
 4. Contact section
 
 ## How to View the Project
-- [View the deployed website](https://username.github.io/codingclub/)
+- [View the deployed website](https://jackpoletek.github.io/my-first-project/)
 
 ## Credits
-- The code for the social media icon animations was taken from [website name](https://username2.github.io/projectname/)
+- The code for the social media icon animations was taken from [Online School of English](https://jackpoletek.github.io/my-first-project/)
 - Thanks to my creator and to my mentor for his patience and support as I built out this project.
 
 ## Markdown practice
